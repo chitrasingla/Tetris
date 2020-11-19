@@ -1,0 +1,75 @@
+Pending
+store scores to db
+correct profile scorelist not working
+implement leaderboard, rank of user(find his topscore, then find unique user name having scores greater than him)
+
+Extras
+add register in login
+footer colour change based on theme
+
+
+done
+change db
+added offline bootstrap successfully
+theme change at first switch from light to dark had black title and message box
+login 
+logout working now
+removed some bugs
+create css for card background colour in profile and leaderboard
+remove html files at last after converting all into php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
