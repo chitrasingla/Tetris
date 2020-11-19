@@ -19,10 +19,9 @@ CREATE TABLE `tbl_user` (
 /*Data for the table `tbl_user` */
 
 insert  into `tbl_user`(`user_id`,`user_name`,`user_doj`,`user_emailid`,`user_password`) values 
-(1,'Daniyal','20020-09-04','daniyal@gmail.com','$2y$10$Vb9t4CvkJwm41KXgPehuLOFcM7o5Qdm1RFxSBxzh9cvBcc21AUAiW'),
-(2,'Chitra','2020-09-19','chitra@gmail.com','$2y$10$Vb9t4CvkJwm41KXgPehuLOFcM7o5Qdm1RFxSBxzh9cvBcc21AUAiW'),
-(3,'demouser1','20020-09-04','demo1@gmail.com','$2y$10$Vb9t4CvkJwm41KXgPehuLOFcM7o5Qdm1RFxSBxzh9cvBcc21AUAiW'),
-(4,'demouser2','20020-09-04','demo2@gmail.com','$2y$10$Vb9t4CvkJwm41KXgPehuLOFcM7o5Qdm1RFxSBxzh9cvBcc21AUAiW');
+(1,'Chitra','2020-09-19','chitra@gmail.com','$2y$10$Vb9t4CvkJwm41KXgPehuLOFcM7o5Qdm1RFxSBxzh9cvBcc21AUAiW'),
+(2,'demouser1','20020-09-04','demo1@gmail.com','$2y$10$Vb9t4CvkJwm41KXgPehuLOFcM7o5Qdm1RFxSBxzh9cvBcc21AUAiW'),
+(3,'demouser2','20020-09-04','demo2@gmail.com','$2y$10$Vb9t4CvkJwm41KXgPehuLOFcM7o5Qdm1RFxSBxzh9cvBcc21AUAiW');
 
 /*----------------------------------------------------------------------------------------------------*/
 
@@ -39,11 +38,10 @@ CREATE TABLE `tbl_score` (
 /*Data for the table `tbl_score` */
 
 insert  into `tbl_score`(`user_id`,`score_value`,`score_date`) values 
-(1,70,'2020-09-01'),
-(2,80,'2020-09-01'),
-(1,90,'2020-09-01'),
-(2,100,'2020-09-01'),
-(1,110,'2020-09-01'),
-(3,10,'2020-09-01'),
-(4,20,'2020-09-01');
+(1,80,'2020-09-01'),
+(1,100,'2020-09-01'),
+(2,10,'2020-09-01'),
+(1,100,'2020-09-10'),
+(2,40,'2020-09-11'),
+(3,20,'2020-09-01');
 
