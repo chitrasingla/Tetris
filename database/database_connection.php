@@ -5,7 +5,7 @@
 // connect database
 $connect = new PDO("mysql:host=localhost;dbname=tetris","root","");
 
-$base_url = "http://localhost:8085/demotetris/";
+$base_url = "http://localhost:8085/Tetris/";
 
 
 // count number of total rows
